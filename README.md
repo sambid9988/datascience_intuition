@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=ieMjGVYw9ag
 
 5> how to reduce predictors in logistic regression?
 https://stats.stackexchange.com/questions/224614/how-to-reduce-variables-in-logistic-regression
+
+6>relation between logarithm and exponents?
+https://www.mathsisfun.com/algebra/exponents-logarithms.html
