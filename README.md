@@ -20,3 +20,4 @@ https://www.mathsisfun.com/algebra/exponents-logarithms.html
 
 7>ridge regression and lasso regression calculation?
 https://www.youtube.com/watch?v=5asL5Eq2x0A&t=439s
+https://www.youtube.com/watch?v=jbwSCwoT51M
