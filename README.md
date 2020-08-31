@@ -27,3 +27,6 @@ https://stats.stackexchange.com/questions/207717/why-does-r2-grow-when-more-pred
 
 9>Support vector regression?
 https://www.analyticsvidhya.com/blog/2020/03/support-vector-regression-tutorial-for-machine-learning/
+
+10> Accuracy vs F1 Score?
+https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2
