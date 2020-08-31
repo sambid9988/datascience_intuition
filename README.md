@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=jbwSCwoT51M
 
 8>why R2 increases with increase in predictors?
 https://stats.stackexchange.com/questions/207717/why-does-r2-grow-when-more-predictor-variables-are-added-to-a-model
+
+9>Support vector regression?
+https://www.analyticsvidhya.com/blog/2020/03/support-vector-regression-tutorial-for-machine-learning/
