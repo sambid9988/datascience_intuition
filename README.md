@@ -30,3 +30,7 @@ https://www.analyticsvidhya.com/blog/2020/03/support-vector-regression-tutorial-
 
 10> Accuracy vs F1 Score?
 https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2
+
+11> eigen values and eigen vectors?
+https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47
+
