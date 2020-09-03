@@ -34,3 +34,5 @@ https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2
 11> eigen values and eigen vectors?
 https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47
 
+12>purpose of softmax?
+https://www.quora.com/How-does-the-softmax-classification-layer-of-a-neural-network-work
