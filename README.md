@@ -36,3 +36,7 @@ https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must
 
 12>purpose of softmax?
 https://www.quora.com/How-does-the-softmax-classification-layer-of-a-neural-network-work
+
+
+
+IMPORTANT STATISTICS INTERVIEW QUESTIONS
