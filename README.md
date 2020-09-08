@@ -38,5 +38,5 @@ https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must
 https://www.quora.com/How-does-the-softmax-classification-layer-of-a-neural-network-work
 
 
-
-
+13> Random Variable, Probability , Probability Mass function, Probability Density Function?
+https://www.britannica.com/science/statistics/Random-variables-and-probability-distributions
