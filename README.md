@@ -47,3 +47,8 @@ https://www.youtube.com/watch?v=BfKanl1aSG0
 
 15>Boxplots?
 https://www.simplypsychology.org/boxplots.html
+
+16>ANOVA,ANCOVA,MANOVA?
+http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova
+
+
