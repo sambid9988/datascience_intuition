@@ -44,3 +44,6 @@ https://www.britannica.com/science/statistics/Random-variables-and-probability-d
 
 14> Maximum likelihood estimation?
 https://www.youtube.com/watch?v=BfKanl1aSG0
+
+15>Boxplots?
+https://www.simplypsychology.org/boxplots.html
