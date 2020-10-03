@@ -63,6 +63,7 @@ https://www.youtube.com/watch?v=TQQlZhbC5ps
 19>GPT,BERT,ELMo and Co?
 http://jalammar.github.io/illustrated-bert/
 http://jalammar.github.io/illustrated-gpt2/
+https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s
 
 
 
