@@ -58,7 +58,7 @@ https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-s
 
 18>Transformer?
 http://jalammar.github.io/illustrated-transformer/ 
-/nhttps://www.youtube.com/watch?v=TQQlZhbC5ps
+https://www.youtube.com/watch?v=TQQlZhbC5ps
 
 19>GPT,BERT,ELMo and Co?
 http://jalammar.github.io/illustrated-bert/
