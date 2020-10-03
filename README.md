@@ -51,4 +51,18 @@ https://www.simplypsychology.org/boxplots.html
 16>ANOVA,ANCOVA,MANOVA?
 http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova
 
+17>Attention models?
+https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+https://blog.floydhub.com/attention-mechanism/
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+18>Transformer?
+http://jalammar.github.io/illustrated-transformer/
+https://www.youtube.com/watch?v=TQQlZhbC5ps
+
+19>GPT,BERT,ELMo and Co?
+http://jalammar.github.io/illustrated-bert/
+http://jalammar.github.io/illustrated-gpt2/
+
+
 
