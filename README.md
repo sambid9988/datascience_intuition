@@ -57,8 +57,8 @@ https://blog.floydhub.com/attention-mechanism/
 https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
 18>Transformer?
-http://jalammar.github.io/illustrated-transformer/ /n
-https://www.youtube.com/watch?v=TQQlZhbC5ps
+http://jalammar.github.io/illustrated-transformer/ 
+/nhttps://www.youtube.com/watch?v=TQQlZhbC5ps
 
 19>GPT,BERT,ELMo and Co?
 http://jalammar.github.io/illustrated-bert/
