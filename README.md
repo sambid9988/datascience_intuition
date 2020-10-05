@@ -65,5 +65,6 @@ http://jalammar.github.io/illustrated-bert/
 http://jalammar.github.io/illustrated-gpt2/
 https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s
 
-
+20>word2vec?
+http://jalammar.github.io/illustrated-word2vec/
 
