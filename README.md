@@ -68,3 +68,5 @@ https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s
 20>word2vec?
 http://jalammar.github.io/illustrated-word2vec/
 
+21>cnn explained easy?
+https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480
