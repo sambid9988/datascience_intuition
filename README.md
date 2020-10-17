@@ -73,3 +73,6 @@ https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolut
 
 22>batch normalisation?
 https://mlexplained.com/2018/01/10/an-intuitive-explanation-of-why-batch-normalization-really-works-normalization-in-deep-learning-part-1/
+
+23>Image extraction
+https://stackoverflow.com/questions/56278094/extracting-data-from-invoices-in-pdf-or-image-format/63400793#63400793
