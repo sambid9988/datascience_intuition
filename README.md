@@ -76,3 +76,6 @@ https://mlexplained.com/2018/01/10/an-intuitive-explanation-of-why-batch-normali
 
 23>invoice region of interest extraction?
 https://stackoverflow.com/questions/56278094/extracting-data-from-invoices-in-pdf-or-image-format/63400793#63400793
+
+24>inception network?
+https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202#:~:text=The%20Inception%20network%20was%20an,Designing%20CNNs%20in%20a%20nutshell.
