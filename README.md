@@ -79,3 +79,14 @@ https://stackoverflow.com/questions/56278094/extracting-data-from-invoices-in-pd
 
 24>inception network?
 https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202#:~:text=The%20Inception%20network%20was%20an,Designing%20CNNs%20in%20a%20nutshell.
+
+25>Linear regression OLS vs gradient descent?
+https://towardsdatascience.com/linear-regression-simplified-ordinary-least-square-vs-gradient-descent-48145de2cf76
+
+26>Local Minima vs Global?
+https://www.mathworks.com/help/optim/ug/local-vs-global-optima.html#:~:text=A%20local%20minimum%20of%20a,at%20all%20other%20feasible%20points.
+
+27>Noise?
+https://elitedatascience.com/overfitting-in-machine-learning
+
+
