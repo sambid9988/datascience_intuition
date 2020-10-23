@@ -89,4 +89,11 @@ https://www.mathworks.com/help/optim/ug/local-vs-global-optima.html#:~:text=A%20
 27>Noise?
 https://elitedatascience.com/overfitting-in-machine-learning
 
+28>Slope in machine Learning?
+https://www.mathsisfun.com/algebra/line-equation-point-slope.html#:~:text=What%20About%20y%20%3D%20mx%20%2B%20b,line%20crosses%20the%20y%2Daxis.
+
+29>Does gradient descent always converge?
+https://www.quora.com/Does-Gradient-Descent-Algo-always-converge-to-the-global-minimum
+
+
 
