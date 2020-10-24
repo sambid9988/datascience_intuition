@@ -95,5 +95,7 @@ https://www.mathsisfun.com/algebra/line-equation-point-slope.html#:~:text=What%2
 29>Does gradient descent always converge?
 https://www.quora.com/Does-Gradient-Descent-Algo-always-converge-to-the-global-minimum
 
+30>Noise vs outliers?
+https://www.mathworks.com/matlabcentral/answers/54798-what-is-the-difference-between-noise-and-outlier#:~:text=Noise%20is%20anything%20that%20is,signal%20can%20be%20an%20outlier.
 
 
