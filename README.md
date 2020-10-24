@@ -98,4 +98,5 @@ https://www.quora.com/Does-Gradient-Descent-Algo-always-converge-to-the-global-m
 30>Noise vs outliers?
 https://www.mathworks.com/matlabcentral/answers/54798-what-is-the-difference-between-noise-and-outlier#:~:text=Noise%20is%20anything%20that%20is,signal%20can%20be%20an%20outlier.
 
-
+31> gradient descent gurantee global minima?
+https://www.quora.com/Does-Gradient-Descent-Algo-always-converge-to-the-global-minimum
