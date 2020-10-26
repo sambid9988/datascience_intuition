@@ -100,3 +100,7 @@ https://www.mathworks.com/matlabcentral/answers/54798-what-is-the-difference-bet
 
 31> gradient descent gurantee global minima?
 https://www.quora.com/Does-Gradient-Descent-Algo-always-converge-to-the-global-minimum
+
+32>siamese networks?
+https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
+
