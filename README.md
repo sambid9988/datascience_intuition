@@ -107,5 +107,6 @@ https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-ker
 33>Case studies, Ecommerce?
 https://blog.gofynd.com/recommending-products-that-look-similar-28183bf1b155
 https://medium.com/walmartglobaltech/product-matching-in-ecommerce-4f19b6aebaca
+https://blog.gofynd.com/recommending-products-that-look-similar-28183bf1b155
 
 
