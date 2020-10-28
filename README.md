@@ -104,3 +104,8 @@ https://www.quora.com/Does-Gradient-Descent-Algo-always-converge-to-the-global-m
 32>siamese networks?
 https://towardsdatascience.com/one-shot-learning-with-siamese-networks-using-keras-17f34e75bb3d
 
+33>Case studies, Ecommerce?
+https://blog.gofynd.com/recommending-products-that-look-similar-28183bf1b155
+https://medium.com/walmartglobaltech/product-matching-in-ecommerce-4f19b6aebaca
+
+
