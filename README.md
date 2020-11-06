@@ -109,4 +109,8 @@ https://blog.gofynd.com/recommending-products-that-look-similar-28183bf1b155
 https://medium.com/walmartglobaltech/product-matching-in-ecommerce-4f19b6aebaca
 https://blog.gofynd.com/recommending-products-that-look-similar-28183bf1b155
 
+34>Text summarisation?
+https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65
+https://towardsdatascience.com/comparing-text-summarization-techniques-d1e2e465584e
+
 
