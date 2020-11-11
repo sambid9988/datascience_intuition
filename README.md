@@ -116,3 +116,8 @@ https://medium.com/analytics-vidhya/live-summarization-on-twitter-data-11d488325
 
 35?Measuring relative importance of logistic regression?
 https://www.quora.com/How-can-one-measure-the-relative-importance-contribution-of-a-feature-in-a-logistic-regression-model
+
+36>Feature selection?https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/
+https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/
+https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
+
