@@ -121,3 +121,6 @@ https://www.quora.com/How-can-one-measure-the-relative-importance-contribution-o
 https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/
 https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
 
+37>Object detection blogs?
+https://jonathan-hui.medium.com/what-do-we-learn-from-region-based-object-detectors-faster-r-cnn-r-fcn-fpn-7e354377a7c9
+
