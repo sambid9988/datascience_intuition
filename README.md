@@ -124,3 +124,6 @@ https://machinelearningmastery.com/feature-selection-with-real-and-categorical-d
 37>Object detection blogs?
 https://jonathan-hui.medium.com/what-do-we-learn-from-region-based-object-detectors-faster-r-cnn-r-fcn-fpn-7e354377a7c9
 
+38>Weight decay?https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd
+
+
