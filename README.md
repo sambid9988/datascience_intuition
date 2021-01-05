@@ -64,6 +64,7 @@ https://www.youtube.com/watch?v=TQQlZhbC5ps
 http://jalammar.github.io/illustrated-bert/
 http://jalammar.github.io/illustrated-gpt2/
 https://www.youtube.com/watch?v=xI0HHN5XKDo&t=4s
+https://www.machinecurve.com/index.php/2021/01/02/intuitive-introduction-to-openai-gpt/
 
 20>word2vec?
 http://jalammar.github.io/illustrated-word2vec/
