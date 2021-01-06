@@ -127,4 +127,8 @@ https://jonathan-hui.medium.com/what-do-we-learn-from-region-based-object-detect
 
 38>Weight decay?https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd
 
+39>Why is a neural network, and in general a deep network, non-convex?
+https://www.quora.com/Why-is-a-neural-network-and-in-general-a-deep-network-non-convex
+https://www.quora.com/Why-is-a-non-convex-loss-function-not-an-issue-in-Deep-Learning
+
 
