@@ -131,4 +131,6 @@ https://jonathan-hui.medium.com/what-do-we-learn-from-region-based-object-detect
 https://www.quora.com/Why-is-a-neural-network-and-in-general-a-deep-network-non-convex
 https://www.quora.com/Why-is-a-non-convex-loss-function-not-an-issue-in-Deep-Learning
 
+40>pandas interview?
+https://www.machinelearningplus.com/python/101-pandas-exercises-python/
 
