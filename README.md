@@ -83,6 +83,7 @@ https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-n
 
 25>Linear regression OLS vs gradient descent?
 https://towardsdatascience.com/linear-regression-simplified-ordinary-least-square-vs-gradient-descent-48145de2cf76
+https://medium.com/analytics-vidhya/understanding-the-linear-regression-808c1f6941c0
 
 26>Local Minima vs Global?
 https://www.mathworks.com/help/optim/ug/local-vs-global-optima.html#:~:text=A%20local%20minimum%20of%20a,at%20all%20other%20feasible%20points.
