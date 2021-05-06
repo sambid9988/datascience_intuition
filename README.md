@@ -135,3 +135,5 @@ https://www.quora.com/Why-is-a-non-convex-loss-function-not-an-issue-in-Deep-Lea
 40>pandas interview?
 https://www.machinelearningplus.com/python/101-pandas-exercises-python/
 
+41>interview questions?
+https://machinelearninginterview.com/
