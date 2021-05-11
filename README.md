@@ -138,5 +138,6 @@ https://www.machinelearningplus.com/python/101-pandas-exercises-python/
 41>interview questions?
 https://machinelearninginterview.com/
 
-42>Precision vs Recall with example?
+42>Precision vs Recall, False positive/False Negative with example?
 https://datascience.stackexchange.com/questions/30881/when-is-precision-more-important-over-recall#:~:text=Thus%2C%20precision%20will%20be%20more,having%20any%20action%20at%20all%22.
+https://towardsdatascience.com/false-positive-and-false-negative-b29df2c60aca
