@@ -141,3 +141,7 @@ https://machinelearninginterview.com/
 42>Precision vs Recall, False positive/False Negative with example?
 https://datascience.stackexchange.com/questions/30881/when-is-precision-more-important-over-recall#:~:text=Thus%2C%20precision%20will%20be%20more,having%20any%20action%20at%20all%22.
 https://towardsdatascience.com/false-positive-and-false-negative-b29df2c60aca
+
+43> Regression loss functions?
+https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
+
