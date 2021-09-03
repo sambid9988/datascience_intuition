@@ -145,3 +145,6 @@ https://towardsdatascience.com/false-positive-and-false-negative-b29df2c60aca
 43> Regression loss functions?
 https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
 
+44> Visualizing high dimension data?
+https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57
+
