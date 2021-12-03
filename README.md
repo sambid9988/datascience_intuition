@@ -152,4 +152,5 @@ https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimen
 https://machinelearninginterview.com/
 https://thedatamonk.com/
 
-
+46>Price Optimization?
+https://tryolabs.com/blog/price-optimization-machine-learning
