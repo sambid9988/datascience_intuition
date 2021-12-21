@@ -157,3 +157,6 @@ https://tryolabs.com/blog/price-optimization-machine-learning
 
 47>Model security?
 https://www.analyticsvidhya.com/blog/2021/01/security-threats-to-machine-learning-systems/
+
+48> word embedding?
+https://www.analyticsvidhya.com/blog/2021/06/practical-guide-to-word-embedding-system/
