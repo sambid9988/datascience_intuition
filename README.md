@@ -154,3 +154,6 @@ https://thedatamonk.com/
 
 46>Price Optimization?
 https://tryolabs.com/blog/price-optimization-machine-learning
+
+47>Model security?
+https://www.analyticsvidhya.com/blog/2021/01/security-threats-to-machine-learning-systems/
