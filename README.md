@@ -160,3 +160,6 @@ https://www.analyticsvidhya.com/blog/2021/01/security-threats-to-machine-learnin
 
 48> word embedding?
 https://www.analyticsvidhya.com/blog/2021/06/practical-guide-to-word-embedding-system/
+
+49> Sentence Embedding?
+https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/
