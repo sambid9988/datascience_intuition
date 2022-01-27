@@ -163,3 +163,6 @@ https://www.analyticsvidhya.com/blog/2021/06/practical-guide-to-word-embedding-s
 
 49> Sentence Embedding?
 https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/
+
+50>NBEATS Model?
+https://towardsdatascience.com/n-beats-beating-statistical-models-with-neural-nets-28a4ba4a4de8
