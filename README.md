@@ -166,3 +166,7 @@ https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques
 
 50>NBEATS Model?
 https://towardsdatascience.com/n-beats-beating-statistical-models-with-neural-nets-28a4ba4a4de8
+
+51> SQL?
+https://www.kaggle.com/getting-started/178151
+
